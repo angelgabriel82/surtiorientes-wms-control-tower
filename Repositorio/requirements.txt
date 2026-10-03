@@ -1,0 +1,9 @@
+# Requerimientos de Producción - Sistema Surtiorientes WMS FEFO Control Pro
+# Dependencias estrictamente optimizadas para visualización, manipulación tabular y gráficos.
+# La algorítmica, colas Min-Heap, psicrometría y persistencia SQLite se gestionan con Python Standard Library.
+
+streamlit>=1.32.0,<=1.45.0
+pandas>=2.1.0,<=2.3.0
+openpyxl>=3.1.2,<=3.2.0
+plotly>=5.18.0,<=5.25.0
+requests>=2.31.0,<=2.33.0
