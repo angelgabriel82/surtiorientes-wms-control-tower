@@ -23,11 +23,11 @@
 * **Periodo Académico:**  
   2026-2 &nbsp;|&nbsp; Segundo Corte Evaluativo (Ponderación 30%)
 * **Integrantes del Equipo de Trabajo (EBT):**  
-  - **Katty:** Formulación Metodológica, Diagnóstico Causal y Modelo de Inferencia Lógica de Muelle
-  - **Yisel:** Modelado de Procesos BPMN 2.0 y Matriz SIPOC Multinivel
+  - **Katty Velasquez:** Formulación Metodológica, Diagnóstico Causal y Modelo de Inferencia Lógica de Muelle
+  - **Yisel Diaz:** Modelado de Procesos BPMN 2.0 y Matriz SIPOC Multinivel
   - **Ángel Gabriel:** Arquitectura de Software, Algoritmia Avanzada y Persistencia ACID
-  - **Luz:** Arquitectura UX/UI y Ergonomía Operacional
-  - **Paulina et al.:** Revisión Bibliométrica (PRISMA 2020) y Gobernanza DAMA-DMBOK
+  - **Luz Mantilla:** Arquitectura UX/UI y Ergonomía Operacional
+  - **Paulina Olivero:** Revisión Bibliométrica (PRISMA 2020) y Gobernanza DAMA-DMBOK
 
 ---
 
@@ -38,7 +38,7 @@ El código fuente completo, los modelos de procesos, los diagramas de flujos de 
 <div align="center">
 
 ### 🔗 URL del Repositorio Principal:
-### [https://github.com/AngelGabriel/surtiorientes-wms-control-tower](https://github.com/AngelGabriel/surtiorientes-wms-control-tower)
+### [https://github.com/angelgabriel82/surtiorientes-wms-control-tower](https://github.com/angelgabriel82/surtiorientes-wms-control-tower)
 
 </div>
 
@@ -48,17 +48,17 @@ El código fuente completo, los modelos de procesos, los diagramas de flujos de 
 
 ### Vía HTTPS:
 ```bash
-git clone https://github.com/AngelGabriel/surtiorientes-wms-control-tower.git
+git clone [https://github.com/angelgabriel82/surtiorientes-wms-control-tower.git](https://github.com/angelgabriel82/surtiorientes-wms-control-tower.git)
 ```
 
 ### Vía SSH:
 ```bash
-git clone git@github.com:AngelGabriel/surtiorientes-wms-control-tower.git
+git clone git@github.com:angelgabriel82/surtiorientes-wms-control-tower.git
 ```
 
 ### Vía GitHub CLI:
 ```bash
-gh repo clone AngelGabriel/surtiorientes-wms-control-tower
+gh repo clone angelgabriel82/surtiorientes-wms-control-tower
 ```
 
 ---
